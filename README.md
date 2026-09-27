@@ -17,12 +17,6 @@ The objective of this analysis is to evaluate Vrinda Store's annual retail perfo
 * **Microsoft Excel**: Data cleaning, handling missing records, formatting dates, pivot tables, and categorization formulas.
 * **Power BI**: Data modeling, custom DAX metrics, interactive filters, KPI cards, and dashboard design.
 
----
-
-## 📊 Dashboard Preview
-*(Upload a screenshot of your dashboard as `dashboard_preview.png` in this repo to display it below)*
-
-![Vrinda Store Dashboard](dashboard_preview.png)
 
 ---
 
